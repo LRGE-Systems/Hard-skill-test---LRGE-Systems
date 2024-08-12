@@ -16,6 +16,7 @@ Desenvolva um script em Python 3 para abrir um arquivo zipado e extrair suas inf
    - Abra um arquivo zipado.
    - Extraia todas as informações do arquivo zipado.
    - Salve os arquivos extraídos em um diretório temporário ou específico.
+   - A extração deve ser integrada ao frontend, isto é, extrair para um local que o frontend consiga acessar e operar
 
 ## Parte 2: Aplicação Fullstack em Node.js/JavaScript
 
@@ -25,6 +26,7 @@ Crie uma aplicação fullstack em Node.js/JavaScript para listar e exibir as inf
 
 - Node.js
 - Framework de sua escolha (Express, Nest, Next, React, etc.)
+- É importante a criação de um design limpo e bonito para podermos avaliar o frontend
 
 ### Funcionalidades
 
